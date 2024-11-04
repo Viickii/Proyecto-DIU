@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ing. Civil Ambiental",
+    "descripcion": "La Ingeniería Civil Ambiental se centra en la preservación y mejora del medio ambiente.",
+    "malla": "/src/assets/mallas/ambiental.jpg",
+    "arancel": "$3.500.000",
+    "puntaje": 650
+  },
+  {
+    "id": 2,
+    "nombre": "Arquitectura",
+    "descripcion": "Arquitectura combina diseño, arte y tecnología para crear espacios habitables.",
+    "malla": "/src/assets/mallas/arquitectura.jpg",
+    "arancel": "$3.800.000",
+    "puntaje": 670
+  },
+  {
+    "id": 3,
+    "nombre": "Ing. Civil",
+    "descripcion": "La Ingeniería Civil aborda el diseño, construcción y mantenimiento de infraestructuras.",
+    "malla": "/src/assets/mallas/civil.jpg",
+    "arancel": "$4.000.000",
+    "puntaje": 700
+  },
+  {
+    "id": 4,
+    "nombre": "Ing. Civil de Minas",
+    "descripcion": "Especializada en la extracción y procesamiento de minerales con seguridad y eficiencia.",
+    "malla": "/src/assets/mallas/minas.jpg",
+    "arancel": "$4.200.000",
+    "puntaje": 680
+  },
+  {
+    "id": 5,
+    "nombre": "Ing. Comercial",
+    "descripcion": "Ingeniería Comercial combina gestión de negocios con una sólida formación en economía.",
+    "malla": "/src/assets/mallas/comercial.jpg",
+    "arancel": "$3.600.000",
+    "puntaje": 620
+  },
+  {
+    "id": 6,
+    "nombre": "Construcción Civil",
+    "descripcion": "Formación en planificación y construcción de proyectos civiles y arquitectónicos.",
+    "malla": "/src/assets/mallas/construccion.jpg",
+    "arancel": "$3.700.000",
+    "puntaje": 640
+  },
+  {
+    "id": 7,
+    "nombre": "Diseño de Productos",
+    "descripcion": "Enfocado en el diseño innovador y funcional de productos en múltiples industrias.",
+    "malla": "/src/assets/mallas/diseno_productos.jpg",
+    "arancel": "$3.400.000",
+    "puntaje": 610
+  },
+  {
+    "id": 8,
+    "nombre": "Ing. Civil Eléctrica",
+    "descripcion": "Especialización en generación, transmisión y distribución de energía eléctrica.",
+    "malla": "/src/assets/mallas/electrica.jpg",
+    "arancel": "$4.100.000",
+    "puntaje": 690
+  },
+  {
+    "id": 9,
+    "nombre": "Ing. Civil Electrónica",
+    "descripcion": "Diseño y desarrollo de sistemas electrónicos para la automatización y control.",
+    "malla": "/src/assets/mallas/electronica.jpg",
+    "arancel": "$4.000.000",
+    "puntaje": 670
+  },
+  {
+    "id": 10,
+    "nombre": "Lic. Física",
+    "descripcion": "La Licenciatura en Física ofrece una formación sólida en principios físicos fundamentales.",
+    "malla": "/src/assets/mallas/fisica.jpg",
+    "arancel": "$3.500.000",
+    "puntaje": 620
+  },
+  {
+    "id": 11,
+    "nombre": "Lic. en Astrofísica",
+    "descripcion": "Astrofísica estudia el universo mediante el análisis de fenómenos cósmicos.",
+    "malla": "/src/assets/mallas/astrofisica.jpg",
+    "arancel": "$3.800.000",
+    "puntaje": 640
+  },
+  {
+    "id": 12,
+    "nombre": "Ing. Civil Informática",
+    "descripcion": "Ingeniería Informática se centra en el desarrollo y gestión de sistemas computacionales.",
+    "malla": "/src/assets/mallas/informatica.jpg",
+    "arancel": "$4.500.000",
+    "puntaje": 720
+  },
+  {
+    "id": 13,
+    "nombre": "Ing. Aviación Comercial",
+    "descripcion": "Preparación para el desarrollo y gestión en el ámbito de la aviación comercial.",
+    "malla": "/src/assets/mallas/aviacion.jpg",
+    "arancel": "$4.000.000",
+    "puntaje": 650
+  },
+  {
+    "id": 14,
+    "nombre": "Ing. Civil Industrial",
+    "descripcion": "Formación en optimización de procesos industriales y gestión de operaciones.",
+    "malla": "/src/assets/mallas/industrial.jpg",
+    "arancel": "$3.900.000",
+    "puntaje": 680
+  },
+  {
+    "id": 15,
+    "nombre": "Ing. Civil Matemática",
+    "descripcion": "Especialización en aplicaciones avanzadas de matemática en problemas de ingeniería.",
+    "malla": "/src/assets/mallas/matematica.jpg",
+    "arancel": "$4.200.000",
+    "puntaje": 670
+  },
+  {
+    "id": 16,
+    "nombre": "Ing. Civil Mecánica",
+    "descripcion": "Ingeniería Mecánica se enfoca en el diseño y mantenimiento de sistemas mecánicos.",
+    "malla": "/src/assets/mallas/mecanica.jpg",
+    "arancel": "$4.100.000",
+    "puntaje": 690
+  },
+  {
+    "id": 17,
+    "nombre": "Ing. Civil Metalúrgica",
+    "descripcion": "Especialización en el procesamiento de metales y minerales.",
+    "malla": "/src/assets/mallas/metalurgica.jpg",
+    "arancel": "$4.300.000",
+    "puntaje": 660
+  },
+  {
+    "id": 18,
+    "nombre": "Ing. Civil Química",
+    "descripcion": "Estudio de los procesos químicos en la industria y su aplicación en ingeniería.",
+    "malla": "/src/assets/mallas/quimica.jpg",
+    "arancel": "$4.000.000",
+    "puntaje": 650
+  },
+  {
+    "id": 19,
+    "nombre": "Ing. Civil Telemática",
+    "descripcion": "Ingeniería Telemática aborda redes de telecomunicaciones y sistemas de información.",
+    "malla": "/src/assets/mallas/telematica.jpg",
+    "arancel": "$4.200.000",
+    "puntaje": 670
+  },
+  {
+    "id": 20,
+    "nombre": "Ingeniería en Informática",
+    "descripcion": "Formación sólida en desarrollo de software, infraestructura y ciberseguridad.",
+    "malla": "/src/assets/mallas/ingenieria_informatica.jpg",
+    "arancel": "$4.500.000",
+    "puntaje": 710
+  }
+]

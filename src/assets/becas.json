@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "Premio Puntaje Máximo PAES",
+    "descripcion": "Beca de arancel y matrícula por la duración nominal de la carrera.",
+    "requisitos": "Ser egresado de enseñanza media en 2023, obtener uno o más puntajes máximos (1.000 puntos) en las Pruebas de Acceso a la Educación Superior (PAES) 2023 y estar seleccionado en la USM vía Admisión Centralizada en el proceso de Admisión 2024. Este premio es renovable bajo condiciones específicas.",
+    "beneficios": "Renovación bajo condiciones de rendimiento académico de excelencia."
+  },
+  {
+    "nombre": "Premio a la Excelencia para Primer Año",
+    "descripcion": "Liberación total o parcial del pago del arancel solo por el primer año.",
+    "requisitos": "Ser egresado de Enseñanza Media en los años 2022 o 2023 y estar seleccionado en la USM vía Admisión Centralizada en el proceso de Admisión 2024.",
+    "beneficios": "Exenciones del arancel según puntaje ponderado USM."
+  },
+  {
+    "nombre": "Beca Ingreso Programa Propedéutico 'Ex Umbra in Solem'",
+    "descripcion": "Liberación total del pago de matrícula y arancel durante los dos primeros años de estudio.",
+    "requisitos": "Postular en primera preferencia a la Universidad Técnica Federico Santa María.",
+    "beneficios": "Beneficio de liberación total del pago de matrícula y arancel."
+  },
+  {
+    "nombre": "Beca Deportista Destacado",
+    "descripcion": "Liberación total del pago del arancel solo por el primer año.",
+    "requisitos": "Ser egresado de Enseñanza Media del año en curso o anterior y haber alcanzado el mayor puntaje ponderado en la admisión centralizada para deportistas destacados.",
+    "beneficios": "Liberación total del arancel."
+  },
+  {
+    "nombre": "Beca Deportista en Formación Élite",
+    "descripcion": "Liberación de hasta un 50% del pago del arancel anual por la duración nominal de la carrera.",
+    "requisitos": "Ser egresado de Enseñanza Media del año en curso o anterior y haber alcanzado el mayor puntaje ponderado en la admisión centralizada para deportistas en formación élite.",
+    "beneficios": "Liberación de hasta el 50% del arancel."
+  },
+  {
+    "nombre": "Beca Deportista Élite",
+    "descripcion": "Liberación total del pago del arancel y matrícula por la duración nominal de la carrera.",
+    "requisitos": "Ser egresado de Enseñanza Media del año en curso o anterior y haber alcanzado el mayor puntaje ponderado en la admisión centralizada para deportistas élite.",
+    "beneficios": "Liberación total del arancel y matrícula."
+  },
+  {
+    "nombre": "Renovación Beca Puntaje Nacional",
+    "descripcion": "Beca de arancel y matrícula por la duración nominal de la carrera para quienes obtuvieron Puntaje Nacional en la Prueba de Transición Universitaria (PDT).",
+    "requisitos": "Mantener un rendimiento académico de excelencia y cumplir con los requisitos de renovación.",
+    "beneficios": "Beca renovable bajo condiciones de rendimiento académico."
+  }
+]
