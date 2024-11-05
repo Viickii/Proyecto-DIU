@@ -8,40 +8,10 @@ export default function Aranceles() {
       <ImageWithTitle
         imageSrc="/src/assets/banner-web-usm-admision.webp"
         title="Aranceles"
+        breadcrumbName="Aranceles"
       />
 
-      {/* Contenedor para el Breadcrumb con barra decorativa */}
-      <Flex 
-        position="absolute"
-        top="26.5%"
-        left="13%" 
-        justify="start" 
-        align="center" 
-        mt={4} 
-        mb={8}
-      >
-        {/* Barra decorativa azul */}
-        <Box width="4px" height="16px" bg="#0367A6" mr={2} />
-
-        {/* Breadcrumb de navegación */}
-        <Breadcrumb
-          fontSize="sm"
-          separator="»"
-          color="gray.500"
-          textAlign="center"
-        >
-          <BreadcrumbItem>
-            <BreadcrumbLink href="/">Admisión</BreadcrumbLink>
-          </BreadcrumbItem>
-
-          <BreadcrumbItem isCurrentPage>
-            <BreadcrumbLink href="#">Aranceles</BreadcrumbLink>
-          </BreadcrumbItem>
-        </Breadcrumb>
-      </Flex>
-
-      <Box height="20px" />
-          
+      <Box height="20px" />  
       {/* Contenedor principal para el título, descripción y tabla */}
       <Flex direction="column" align="start" p={8} maxW="1435px" mx="auto">
         {/* Título y descripción */}

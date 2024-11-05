@@ -17,32 +17,8 @@ export default function BecasBeneficios() {
       <ImageWithTitle
         imageSrc="/src/assets/banner-web-usm-admision.webp"
         title="Becas y Beneficios"
+        breadcrumbName="Becas y Beneficios"
       />
-
-      <Flex 
-        position="absolute"
-        top="58%"
-        left="13%" 
-        justify="start" 
-        align="center" 
-        mt={4} mb={8}>
-        <Box width="4px" height="16px" bg="#0367A6" mr={2} />
-
-        <Breadcrumb
-          fontSize="sm"
-          separator="»"
-          color="gray.500"
-          textAlign="center"
-        >
-          <BreadcrumbItem>
-            <BreadcrumbLink href="/">Inicio</BreadcrumbLink>
-          </BreadcrumbItem>
-
-          <BreadcrumbItem isCurrentPage>
-            <BreadcrumbLink href="#">Becas y Beneficios</BreadcrumbLink>
-          </BreadcrumbItem>
-        </Breadcrumb>
-      </Flex>
 
       <Box height="20px" />
       <Flex direction="column" align="center" gap={6} p={8}>
