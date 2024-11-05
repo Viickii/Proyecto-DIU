@@ -23,7 +23,7 @@ export default function Carreras() {
       {/* Contenedor para el Breadcrumb con barra decorativa */}
       <Flex 
         position="absolute"
-        top="58%"
+        top="35%"
         left="13%" 
         justify="start" 
         align="center" 
@@ -66,7 +66,7 @@ export default function Carreras() {
 
         {/* Detalles de la carrera */}
         {carrera && (
-          <Box textAlign="center" w="100%" maxW="800px" p={4} boxShadow="md" borderRadius="md">
+          <Box textAlign="center" w="100%" maxW="2000px" p={4} boxShadow="md" borderRadius="md">
             <Heading as="h2" size="xl" mb={4}>
               {carrera.nombre}
             </Heading>

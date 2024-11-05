@@ -132,7 +132,9 @@
   {
     "id": 14,
     "nombre": "Ing. Civil Industrial",
+    "titulo": "Ingeniero Civil Industrial o Ingeniera Civil Industrial.",
     "descripcion": "Formación en optimización de procesos industriales y gestión de operaciones.",
+    "lugar": "Campus Casa Central Valparaíso y Campus Vitacura",
     "malla": "/src/assets/mallas/industrial.jpg",
     "arancel": "$3.900.000",
     "puntaje": 680
@@ -140,7 +142,9 @@
   {
     "id": 15,
     "nombre": "Ing. Civil Matemática",
+    "titulo": "Ingeniero Civil Matemático o Ingeniera Civil Matemática.",
     "descripcion": "Especialización en aplicaciones avanzadas de matemática en problemas de ingeniería.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/matematica.jpg",
     "arancel": "$4.200.000",
     "puntaje": 670
@@ -148,7 +152,9 @@
   {
     "id": 16,
     "nombre": "Ing. Civil Mecánica",
+    "titulo": "Ingeniero Civil Mecánico o Ingeniera Civil Mecánica",
     "descripcion": "Ingeniería Mecánica se enfoca en el diseño y mantenimiento de sistemas mecánicos.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/mecanica.jpg",
     "arancel": "$4.100.000",
     "puntaje": 690
@@ -156,7 +162,9 @@
   {
     "id": 17,
     "nombre": "Ing. Civil Metalúrgica",
+    "titulo": " Ingeniero Civil Metalúrgica o Ingeniera Civil Metalúrgica.",
     "descripcion": "Especialización en el procesamiento de metales y minerales.",
+    "lugar": "Campus Casa Central Valparaíso",
     "malla": "/src/assets/mallas/metalurgica.jpg",
     "arancel": "$4.300.000",
     "puntaje": 660
@@ -164,7 +172,9 @@
   {
     "id": 18,
     "nombre": "Ing. Civil Química",
+    "titulo": "Ingeniero Civil Químico o Ingeniera Civil Química.",
     "descripcion": "Estudio de los procesos químicos en la industria y su aplicación en ingeniería.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/quimica.jpg",
     "arancel": "$4.000.000",
     "puntaje": 650
@@ -172,7 +182,9 @@
   {
     "id": 19,
     "nombre": "Ing. Civil Telemática",
+    "titulo": "Ingeniero Civil Telemático o Ingeniera Civil Telemática.",
     "descripcion": "Ingeniería Telemática aborda redes de telecomunicaciones y sistemas de información.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/telematica.jpg",
     "arancel": "$4.200.000",
     "puntaje": 670
@@ -180,7 +192,9 @@
   {
     "id": 20,
     "nombre": "Ingeniería en Informática",
+    "titulo": "Ingeniero Informático o Ingeniera Informática",
     "descripcion": "Formación sólida en desarrollo de software, infraestructura y ciberseguridad.",
+    "lugar": "Sede Viña del Mar y Sede Concepción",
     "malla": "/src/assets/mallas/ingenieria_informatica.jpg",
     "arancel": "$4.500.000",
     "puntaje": 710
