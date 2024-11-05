@@ -2,7 +2,9 @@
   {
     "id": 1,
     "nombre": "Ing. Civil Ambiental",
+    "titulo": "Ingeniero Civil Ambiental o Ingeniera Civil Ambiental.",
     "descripcion": "La Ingeniería Civil Ambiental se centra en la preservación y mejora del medio ambiente.",
+    "lugar":"Campus Casa Central Valparaíso",
     "malla": "/src/assets/mallas/ambiental.jpg",
     "arancel": "$3.500.000",
     "puntaje": 650
@@ -10,7 +12,9 @@
   {
     "id": 2,
     "nombre": "Arquitectura",
+    "titulo": "Arquitecto o Arquitecta",
     "descripcion": "Arquitectura combina diseño, arte y tecnología para crear espacios habitables.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/arquitectura.jpg",
     "arancel": "$3.800.000",
     "puntaje": 670
@@ -18,7 +22,9 @@
   {
     "id": 3,
     "nombre": "Ing. Civil",
+    "titulo": "Ingeniero Civil o Ingeniera Civil",
     "descripcion": "La Ingeniería Civil aborda el diseño, construcción y mantenimiento de infraestructuras.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/civil.jpg",
     "arancel": "$4.000.000",
     "puntaje": 700
@@ -26,7 +32,9 @@
   {
     "id": 4,
     "nombre": "Ing. Civil de Minas",
+    "titulo": "Ingeniero Civil de Minas o Ingeniera Civil de Minas.",
     "descripcion": "Especializada en la extracción y procesamiento de minerales con seguridad y eficiencia.",
+    "lugar": "Campus San Joaquín",
     "malla": "/src/assets/mallas/minas.jpg",
     "arancel": "$4.200.000",
     "puntaje": 680
@@ -34,7 +42,9 @@
   {
     "id": 5,
     "nombre": "Ing. Comercial",
+    "titulo": "Ingeniero Comercial o Ingeniera Comercial.",
     "descripcion": "Ingeniería Comercial combina gestión de negocios con una sólida formación en economía.",
+    "lugar": "Campus Casa Central Valparaíso y Campus Vitacura",
     "malla": "/src/assets/mallas/comercial.jpg",
     "arancel": "$3.600.000",
     "puntaje": 620
@@ -42,7 +52,9 @@
   {
     "id": 6,
     "nombre": "Construcción Civil",
+    "titulo": "Constructor Civil o Constructora Civil",
     "descripcion": "Formación en planificación y construcción de proyectos civiles y arquitectónicos.",
+    "lugar": "Campus Casa Central Valparaíso",
     "malla": "/src/assets/mallas/construccion.jpg",
     "arancel": "$3.700.000",
     "puntaje": 640
@@ -50,7 +62,9 @@
   {
     "id": 7,
     "nombre": "Diseño de Productos",
+    "titulo": "Ingeniero en Diseño de Productos o Ingeniera en Diseño de Productos.",
     "descripcion": "Enfocado en el diseño innovador y funcional de productos en múltiples industrias.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/diseno_productos.jpg",
     "arancel": "$3.400.000",
     "puntaje": 610
@@ -58,7 +72,9 @@
   {
     "id": 8,
     "nombre": "Ing. Civil Eléctrica",
+    "titulo": "Ingeniero Civil Electricista o Ingeniera Civil Electricista.",
     "descripcion": "Especialización en generación, transmisión y distribución de energía eléctrica.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/electrica.jpg",
     "arancel": "$4.100.000",
     "puntaje": 690
@@ -66,7 +82,9 @@
   {
     "id": 9,
     "nombre": "Ing. Civil Electrónica",
+    "titulo": "Ingeniero Civil Electrónico o Ingeniera Civil Electrónica.",
     "descripcion": "Diseño y desarrollo de sistemas electrónicos para la automatización y control.",
+    "lugar": "Campus Casa Central Valparaíso",
     "malla": "/src/assets/mallas/electronica.jpg",
     "arancel": "$4.000.000",
     "puntaje": 670
@@ -74,7 +92,9 @@
   {
     "id": 10,
     "nombre": "Lic. Física",
+    "titulo": "Licenciado en Física o Licenciada en Física.",
     "descripcion": "La Licenciatura en Física ofrece una formación sólida en principios físicos fundamentales.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/fisica.jpg",
     "arancel": "$3.500.000",
     "puntaje": 620
@@ -82,7 +102,9 @@
   {
     "id": 11,
     "nombre": "Lic. en Astrofísica",
+    "titulo": "Licenciado en Astrofísica o Licenciada en Astrofísica.",
     "descripcion": "Astrofísica estudia el universo mediante el análisis de fenómenos cósmicos.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/astrofisica.jpg",
     "arancel": "$3.800.000",
     "puntaje": 640
@@ -90,7 +112,9 @@
   {
     "id": 12,
     "nombre": "Ing. Civil Informática",
+    "titulo": " Ingeniero Civil Informático o Ingeniera Civil Informática.",
     "descripcion": "Ingeniería Informática se centra en el desarrollo y gestión de sistemas computacionales.",
+    "lugar": "Campus Casa Central Valparaíso y Campus San Joaquín",
     "malla": "/src/assets/mallas/informatica.jpg",
     "arancel": "$4.500.000",
     "puntaje": 720
@@ -98,7 +122,9 @@
   {
     "id": 13,
     "nombre": "Ing. Aviación Comercial",
+    "titulo": "Ingeniero en Aviación Comercial o Ingeniera en Aviación Comercial.",
     "descripcion": "Preparación para el desarrollo y gestión en el ámbito de la aviación comercial.",
+    "lugar": "Campus Vitacura",
     "malla": "/src/assets/mallas/aviacion.jpg",
     "arancel": "$4.000.000",
     "puntaje": 650
