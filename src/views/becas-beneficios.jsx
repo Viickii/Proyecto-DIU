@@ -36,7 +36,7 @@ export default function BecasBeneficios() {
         </Select>
 
         {beca && (
-          <Box textAlign="center" w="100%" maxW="800px" p={4} boxShadow="md" borderRadius="md">
+          <Box textAlign="" w="100%" maxW="800px" p={4} boxShadow="md" borderRadius="md">
             <Heading as="h2" size="xl" mb={4}>
               {beca.nombre}
             </Heading>

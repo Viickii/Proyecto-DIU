@@ -1,10 +1,11 @@
 import { Box, Flex, Heading, Text, Select, Image, Breadcrumb, BreadcrumbItem, BreadcrumbLink } from '@chakra-ui/react';
 import { useState } from 'react';
-import carrerasData from '/src/assets/carreras2.json'
+import carrerasData from '/src/assets/carreras2.json';
 import ImageWithTitle from '../components/imageTitle';
 
 export default function Carreras() {
-  const [selectedCarrera, setSelectedCarrera] = useState("Selecciona una carrera");
+  // Establece "Ing. Civil Informática" como valor inicial
+  const [selectedCarrera, setSelectedCarrera] = useState("Ing. Civil Informática");
 
   // Encontrar la carrera seleccionada en el JSON
   const carrera = carrerasData.find((c) => c.nombre === selectedCarrera);
@@ -23,9 +24,13 @@ export default function Carreras() {
 
       <Box height="50px" />
       <Flex direction="column" align="center" gap={6} p={8}>
+        {/* Texto de instrucción */}
+        <Text fontSize="lg" fontWeight="bold">
+          Selecciona la carrera que quieras:
+        </Text>
+
         {/* Seleccionador de carreras */}
         <Select
-          placeholder="Selecciona una carrera"
           value={selectedCarrera}
           onChange={handleSelectChange}
           maxW="400px"
