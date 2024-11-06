@@ -1,4 +1,4 @@
-"# Proyecto-DIU- Admisión USM" 
+"# Proyecto-DIU-Admisión-USM" 
 Grupo conformado por:
 Sharon Andrade
 Sophia Escobar
