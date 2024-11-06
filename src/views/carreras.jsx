@@ -83,7 +83,9 @@ export default function Carreras() {
               {carrera.lugar}
             </Text>
             <Text fontWeight="bold">Malla Curricular:</Text>
-            <Image src={carrera.malla} alt={`Malla de ${carrera.nombre}`} maxH="500px" mx="auto" objectFit="cover" />
+            <Image src={carrera.malla} alt={`Malla de ${carrera.nombre}`} maxH="500px" mx="auto" objectFit="cover"  mb={4}/>
+            <Text> </Text>
+            <Image src={carrera.imagen} alt={carrera.nombre} width="500px" objectFit="cover" mb={4} mx="auto"/>
           </Box>
         )}
       </Flex>

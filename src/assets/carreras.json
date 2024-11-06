@@ -1,121 +1,121 @@
 [
     {
       "nombre": "Ing. Civil Ambiental",
-      "imagen": "/path/to/image1.jpg",
+      "imagen": "/src/assets/carreras/ambiental.jpg",
       "arancel": "$3.500.000",
       "puntaje": 650
     },
     {
       "nombre": "Arquitectura",
-      "imagen": "/path/to/image2.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.200.000",
       "puntaje": 630
     },
     {
       "nombre": "Ing. Civil",
-      "imagen": "/path/to/image3.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.800.000",
       "puntaje": 670
     },
     {
       "nombre": "Ing. Civil de Minas",
-      "imagen": "/path/to/image4.jpg",
+      "imagen": "/src/assets/carreras/minas.jpg",
       "arancel": "$3.900.000",
       "puntaje": 620
     },
     {
       "nombre": "Ing. Comercial",
-      "imagen": "/path/to/image5.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.000.000",
       "puntaje": 640
     },
     {
       "nombre": "Construcción Civil",
-      "imagen": "/path/to/image6.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.300.000",
       "puntaje": 610
     },
     {
       "nombre": "Diseño de Productos",
-      "imagen": "/path/to/image7.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.600.000",
       "puntaje": 600
     },
     {
       "nombre": "Ing. Civil Eléctrica",
-      "imagen": "/path/to/image8.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.100.000",
       "puntaje": 660
     },
     {
       "nombre": "Ing. Civil Electrónica",
-      "imagen": "/path/to/image9.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.200.000",
       "puntaje": 670
     },
     {
       "nombre": "Lic. Física",
-      "imagen": "/path/to/image10.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.000.000",
       "puntaje": 590
     },
     {
       "nombre": "Lic. en Astrofísica",
-      "imagen": "/path/to/image11.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.500.000",
       "puntaje": 600
     },
     {
       "nombre": "Ing. Civil Informática",
-      "imagen": "/path/to/image12.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.500.000",
       "puntaje": 680
     },
     {
       "nombre": "Ing. Aviación Comercial",
-      "imagen": "/path/to/image13.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.600.000",
       "puntaje": 630
     },
     {
       "nombre": "Ing. Civil Industrial",
-      "imagen": "/path/to/image14.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.200.000",
       "puntaje": 670
     },
     {
       "nombre": "Ing. Civil Matemática",
-      "imagen": "/path/to/image15.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.000.000",
       "puntaje": 650
     },
     {
       "nombre": "Ing. Civil Mecánica",
-      "imagen": "/path/to/image16.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.900.000",
       "puntaje": 640
     },
     {
       "nombre": "Ing. Civil Metalúrgica",
-      "imagen": "/path/to/image17.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.100.000",
       "puntaje": 620
     },
     {
       "nombre": "Ing. Civil Química",
-      "imagen": "/path/to/image18.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.300.000",
       "puntaje": 660
     },
     {
       "nombre": "Ing. Civil Telemática",
-      "imagen": "/path/to/image19.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$4.400.000",
       "puntaje": 650
     },
     {
       "nombre": "Ingeniería en Informática",
-      "imagen": "/path/to/image20.jpg",
+      "imagen": "/src/assets/carreras/telematica.jpg",
       "arancel": "$3.700.000",
       "puntaje": 630
     }
