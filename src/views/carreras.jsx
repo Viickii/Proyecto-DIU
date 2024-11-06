@@ -1,10 +1,11 @@
 import { Box, Flex, Heading, Text, Select, Image, Breadcrumb, BreadcrumbItem, BreadcrumbLink } from '@chakra-ui/react';
 import { useState } from 'react';
-import carrerasData from '/src/assets/carreras2.json'
+import carrerasData from '/src/assets/carreras2.json';
 import ImageWithTitle from '../components/imageTitle';
 
 export default function Carreras() {
-  const [selectedCarrera, setSelectedCarrera] = useState("Selecciona una carrera");
+  // Establece "Ing. Civil Informática" como valor inicial
+  const [selectedCarrera, setSelectedCarrera] = useState("Ing. Civil Informática");
 
   // Encontrar la carrera seleccionada en el JSON
   const carrera = carrerasData.find((c) => c.nombre === selectedCarrera);
@@ -18,41 +19,18 @@ export default function Carreras() {
       <ImageWithTitle
         imageSrc="/src/assets/banner-web-usm-admision.webp"
         title="Carreras de Pregrado"
+        breadcrumbName="Carreras"
       />
-
-      {/* Contenedor para el Breadcrumb con barra decorativa */}
-      <Flex 
-        position="absolute"
-        top="35%"
-        left="13%" 
-        justify="start" 
-        align="center" 
-        mt={4} mb={8}>
-        {/* Barra decorativa azul */}
-        <Box width="4px" height="16px" bg="#0367A6" mr={2} />
-
-        {/* Breadcrumb de navegación */}
-        <Breadcrumb
-          fontSize="sm"
-          separator="»"
-          color="gray.500"
-          textAlign="center"
-        >
-          <BreadcrumbItem>
-            <BreadcrumbLink href="/">Admisión</BreadcrumbLink>
-          </BreadcrumbItem>
-
-          <BreadcrumbItem isCurrentPage>
-            <BreadcrumbLink href="#">Carreras</BreadcrumbLink>
-          </BreadcrumbItem>
-        </Breadcrumb>
-      </Flex>
 
       <Box height="50px" />
       <Flex direction="column" align="center" gap={6} p={8}>
+        {/* Texto de instrucción */}
+        <Text fontSize="lg" fontWeight="bold">
+          Selecciona la carrera que quieras:
+        </Text>
+
         {/* Seleccionador de carreras */}
         <Select
-          placeholder="Selecciona una carrera"
           value={selectedCarrera}
           onChange={handleSelectChange}
           maxW="400px"
