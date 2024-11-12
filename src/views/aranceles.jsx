@@ -1,7 +1,8 @@
 import { Box, Flex, Heading, Text, Breadcrumb, BreadcrumbItem, BreadcrumbLink, Table, Thead, Tbody, Tr, Th, Td } from '@chakra-ui/react';
-import carrerasData from '/src/assets/carreras2.json';
+import carreras2 from '/src/assets/carreras2.json';
 import ImageWithTitle from '../components/imageTitle';
 
+const carrerasData = carreras2.sort((a, b) => a.nombre.localeCompare(b.nombre));
 export default function Aranceles() {
   return (
     <Box position="relative">
