@@ -1,8 +1,9 @@
 import { Box, Flex, Heading, Text, Select, Image, Breadcrumb, BreadcrumbItem, BreadcrumbLink } from '@chakra-ui/react';
 import { useState } from 'react';
-import carrerasData from '/src/assets/carreras2.json';
+import carreras1 from '/src/assets/carreras2.json';
 import ImageWithTitle from '../components/imageTitle';
 
+const carrerasData = carreras1.sort((a, b) => a.nombre.localeCompare(b.nombre));
 export default function Carreras() {
   // Establece "Ing. Civil Informática" como valor inicial
   const [selectedCarrera, setSelectedCarrera] = useState("Ing. Civil Informática");
