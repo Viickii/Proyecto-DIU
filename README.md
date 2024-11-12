@@ -1,11 +1,24 @@
-"# Proyecto-DIU-Admisión-USM" 
-Grupo conformado por:
-Sharon Andrade
-Sophia Escobar
-Rodrigo Ramírez
-# React + Vite
+# Proyecto DIU - Admisión USM
 
-Para correr esta App de React:
+Aplicación de React creada con Vite.
+
+## Integrantes del Grupo
+- **Sharon Andrade**
+- **Sophia Escobar**
+- **Rodrigo Ramírez**
+
+## Tecnologías
+- **React** con **Vite**
+
+## Requisitos
+- Node.js (versión 14 o superior)
+- npm o yarn
+
+## Instrucciones para ejecutar el proyecto
+
+### 1. Clonar el repositorio
+```bash
+git clone <URL_DEL_REPOSITORIO>
 
 - Clonar Repositorio
 - Instalar paquetes:
