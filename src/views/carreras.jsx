@@ -48,6 +48,7 @@ export default function Carreras() {
             <Heading as="h2" size="xl" mb={4}>
               {carrera.nombre}
             </Heading>
+            <Image src={carrera.imagen} alt={carrera.nombre} width="100%" height="180px" objectFit="cover" mb={4} mx="auto" />
             <Text fontWeight="bold">Título Profesional:</Text>
             <Text fontSize="lg" mb={4}>
               {carrera.titulo}
@@ -60,10 +61,14 @@ export default function Carreras() {
             <Text fontSize="lg" mb={4}>
               {carrera.lugar}
             </Text>
-            <Text fontWeight="bold">Malla Curricular:</Text>
+
+            <Text fontWeight="bold">Puntaje de corte PAES 2024:</Text>
+            <Text fontSize="lg" mb={4}>
+              {carrera.puntaje}
+            </Text>
+
+            <Text fontWeight="bold">Malla Curricular 2025:</Text>
             <Image src={carrera.malla} alt={`Malla de ${carrera.nombre}`} maxH="500px" mx="auto" objectFit="cover"  mb={4}/>
-            <Text> </Text>
-            <Image src={carrera.imagen} alt={carrera.nombre} width="500px" objectFit="cover" mb={4} mx="auto"/>
           </Box>
         )}
       </Flex>
