@@ -14,7 +14,7 @@ export default function Aranceles() {
 
       <Box height="20px" />  
       {/* Contenedor principal para el título, descripción y tabla */}
-      <Flex direction="column" align="start" p={8} maxW="1435px" mx="auto">
+      <Flex direction="column" align="start" p={8} maxW="1000px" mx="auto">
         {/* Título y descripción */}
         <Box textAlign="start" mb={6}>
           <Heading as="h2" size="lg" mb={4}>

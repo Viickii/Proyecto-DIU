@@ -23,7 +23,6 @@ export default function Carreras() {
         breadcrumbName="Carreras"
       />
 
-      <Box height="50px" />
       <Flex direction="column" align="center" gap={6} p={8}>
         {/* Texto de instrucción */}
         <Text fontSize="lg" fontWeight="bold">
@@ -45,7 +44,7 @@ export default function Carreras() {
 
         {/* Detalles de la carrera */}
         {carrera && (
-          <Box textAlign="center" w="100%" maxW="2000px" p={4} boxShadow="md" borderRadius="md">
+          <Box w="100%" maxW="1000px" p={4} boxShadow="md" borderRadius="md">
             <Heading as="h2" size="xl" mb={4}>
               {carrera.nombre}
             </Heading>

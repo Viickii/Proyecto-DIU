@@ -22,7 +22,7 @@ export default function ImageWithTitle({ imageSrc, title, breadcrumbName }) {
           src={imageSrc}
           alt={title}
           w="100%"
-          h="420px"
+          h="340px"
           objectFit="cover"
           objectPosition="50% 100%"
           filter="brightness(0.8)"

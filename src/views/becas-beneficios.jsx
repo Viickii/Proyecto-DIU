@@ -20,8 +20,11 @@ export default function BecasBeneficios() {
         breadcrumbName="Becas y Beneficios"
       />
 
-      <Box height="20px" />
       <Flex direction="column" align="center" gap={6} p={8}>
+        {/* Texto de instrucción */}
+        <Text fontSize="lg" fontWeight="bold">
+          Selecciona la Beca o Beneficio que quieras:
+        </Text>
         <Select
           placeholder="Selecciona una beca"
           value={selectedBeca}
@@ -36,7 +39,7 @@ export default function BecasBeneficios() {
         </Select>
 
         {beca && (
-          <Box textAlign="" w="100%" maxW="800px" p={4} boxShadow="md" borderRadius="md">
+          <Box w="100%" maxW="1000px" p={4} boxShadow="md" borderRadius="md">
             <Heading as="h2" size="xl" mb={4}>
               {beca.nombre}
             </Heading>

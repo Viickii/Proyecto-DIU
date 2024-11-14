@@ -19,7 +19,7 @@ export default function Home() {
           src="/src/assets/jornada-articulacion.webp"
           alt="Postulaciones Abiertas"
           w="100%"
-          h="420px"
+          h="340px"
           objectFit="cover"
           objectPosition="50% 20%"
           filter="brightness(0.8)"
